@@ -138,7 +138,8 @@ header nav ul li a:hover {
   h3 {
     font-size: 18px;
     font-family: 'myriad pro' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 400;
+    color: #403933;
   }
   
   p {
